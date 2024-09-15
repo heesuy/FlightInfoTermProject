@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>32</string>
+					<key>EndingLineNumber</key>
+					<string>431</string>
+					<key>StartingColumnNumber</key>
+					<string>11</string>
+					<key>StartingLineNumber</key>
+					<string>431</string>
+					<key>Timestamp</key>
+					<string>740223088.769968</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>FlightInfoTermProject/FlightDetailVIew.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>flightInformationView</string>
+				<key>leading</key>
+				<string>           self.noFlightsFoundView.isHidden = true
+           self.isUserInteractionEnabled = true
+           </string>
+				<key>trailing</key>
+				<string>.segments = flightDetails.itineraries[0].segments // 목적지로 가는 일정의 집합을 넣습니다. flightInformationView 설명입니다.
+           
+           // 왕복인 경우!  목적지에서 다시 집으로 돌아올때 일정의 집합을 넣습니다.
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>

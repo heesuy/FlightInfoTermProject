@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "463F0FBD-EB12-4C91-9CD0-E9717504DBFB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "completeButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - 6226fb87c523cb15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "1844">
+               </Location>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - 6226fb87c523cacb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "2912">
+               </Location>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - 6226fb87c523ca6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2676">
+               </Location>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - 70f76a7655b66dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - 70f76a7655b66dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - a76452d9fb63d7c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2676">
+               </Location>
+               <Location
+                  uuid = "58C25CDD-714C-4DE6-9F1C-ECAF22D0BC07 - b5b5c3286bf67158"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E53CD63-450E-43E0-AD9A-1B4C7151D2ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "completeButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E53CD63-450E-43E0-AD9A-1B4C7151D2ED - 6226fb87c523cacb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "2912">
+               </Location>
+               <Location
+                  uuid = "1E53CD63-450E-43E0-AD9A-1B4C7151D2ED - 70f76a7655b66dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1E53CD63-450E-43E0-AD9A-1B4C7151D2ED - 70f76a7655b66dcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1E53CD63-450E-43E0-AD9A-1B4C7151D2ED - b5b5c3286bf67158"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in FlightInfoTermProject.RegisterViewController.completeButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "250902E4-E20C-4206-9CA9-1EECD89648FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/DbFirebase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "uploadImage(imageName:image:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "250902E4-E20C-4206-9CA9-1EECD89648FB - 77ab94e37f49e726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.DbFirebase.uploadImage(imageName: Swift.String, image: __C.UIImage, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/DbFirebase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "250902E4-E20C-4206-9CA9-1EECD89648FB - 77ab94e37f49e726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.DbFirebase.uploadImage(imageName: Swift.String, image: __C.UIImage, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/DbFirebase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "250902E4-E20C-4206-9CA9-1EECD89648FB - f55bbd99ecbd2dd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.DbFirebase.uploadImage(imageName: Swift.String, image: __C.UIImage, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/DbFirebase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5F60AC4-80FE-4689-833F-9DA6D07B5F63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/DbFirebase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "uploadImage(imageName:image:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5F60AC4-80FE-4689-833F-9DA6D07B5F63 - 77ab94e37f49e726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.DbFirebase.uploadImage(imageName: Swift.String, image: __C.UIImage, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/DbFirebase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "D5F60AC4-80FE-4689-833F-9DA6D07B5F63 - 77ab94e37f49e726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.DbFirebase.uploadImage(imageName: Swift.String, image: __C.UIImage, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/DbFirebase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "D5F60AC4-80FE-4689-833F-9DA6D07B5F63 - f55bbd99ecbd2dd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.DbFirebase.uploadImage(imageName: Swift.String, image: __C.UIImage, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/DbFirebase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEA41D61-DE8E-42A9-B0F7-D9EA292063FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/FlightInfoTermProject-hebbrgqburhuggbrfqxvugwytmrl/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/StorageReference.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "putData(_:metadata:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "886866AC-485A-4961-8E78-2E3CA464B490"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "loginButtonTouched(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "886866AC-485A-4961-8E78-2E3CA464B490 - fc3a7ef177aab242"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.LoginViewController.loginButtonTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "886866AC-485A-4961-8E78-2E3CA464B490 - a41f8ec3b7aa1783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.LoginViewController.loginButtonTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "886866AC-485A-4961-8E78-2E3CA464B490 - fc3a7ef177aab242"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.LoginViewController.loginButtonTouched(__C.UIButton) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A290A60A-2B39-4F88-86F0-A98CDA90BA63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SearchDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A290A60A-2B39-4F88-86F0-A98CDA90BA63 - 35de0573980823c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SearchDetailsCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlightInfoTermProject.SearchDetailsCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SearchDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A290A60A-2B39-4F88-86F0-A98CDA90BA63 - fb2bd1e4c69ece1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SearchDetailsCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlightInfoTermProject.SearchDetailsCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SearchDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "A290A60A-2B39-4F88-86F0-A98CDA90BA63 - 602622036dca5453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SearchDetailsCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlightInfoTermProject.SearchDetailsCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SearchDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A290A60A-2B39-4F88-86F0-A98CDA90BA63 - aed3f694335cb56c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SearchDetailsCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlightInfoTermProject.SearchDetailsCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SearchDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAD43EEB-FD31-42B5-B0AF-5A480AA76F20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SearchDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "setUpConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAD43EEB-FD31-42B5-B0AF-5A480AA76F20 - caca00584c17fea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SearchDetailsCell.setUpConstraints() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SearchDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1308">
+               </Location>
+               <Location
+                  uuid = "CAD43EEB-FD31-42B5-B0AF-5A480AA76F20 - caca00584c17feff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SearchDetailsCell.setUpConstraints() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SearchDetails.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C48222C6-C4E8-4825-A0B5-F7E3B9E89A37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C48222C6-C4E8-4825-A0B5-F7E3B9E89A37 - 42e706ac9ec69b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+               <Location
+                  uuid = "C48222C6-C4E8-4825-A0B5-F7E3B9E89A37 - 42e706ac9ec69b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "C48222C6-C4E8-4825-A0B5-F7E3B9E89A37 - 42e706ac9ec672a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "C48222C6-C4E8-4825-A0B5-F7E3B9E89A37 - 42e706ac9ec65d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "C48222C6-C4E8-4825-A0B5-F7E3B9E89A37 - 42e706ac9ec6412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20CBEAEF-9F97-4982-982F-172C87050F42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "378"
+            endingLineNumber = "378"
+            landmarkName = "cellLongTapped(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20CBEAEF-9F97-4982-982F-172C87050F42 - 3d10ecad50e7bf3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "380"
+                  endingLineNumber = "380"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "20CBEAEF-9F97-4982-982F-172C87050F42 - 3d10ecad50e7bf3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "380"
+                  endingLineNumber = "380"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "20CBEAEF-9F97-4982-982F-172C87050F42 - 3d10ecad50e7bf7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "382"
+                  endingLineNumber = "382"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "20CBEAEF-9F97-4982-982F-172C87050F42 - 3d10ecad50e7bffa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+               <Location
+                  uuid = "20CBEAEF-9F97-4982-982F-172C87050F42 - 4777f8b6bdbd76eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "20CBEAEF-9F97-4982-982F-172C87050F42 - 4777f8b6bdbd76eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "389"
+            endingLineNumber = "389"
+            landmarkName = "cellLongTapped(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8 - 3d10ecad50e7a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "390"
+                  endingLineNumber = "390"
+                  offsetFromSymbolStart = "4380">
+               </Location>
+               <Location
+                  uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8 - 3d10ecad50e7a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "390"
+                  endingLineNumber = "390"
+                  offsetFromSymbolStart = "3808">
+               </Location>
+               <Location
+                  uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8 - 3d10ecad50e7a1eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "393"
+                  endingLineNumber = "393"
+                  offsetFromSymbolStart = "3664">
+               </Location>
+               <Location
+                  uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8 - 3d10ecad50e7a057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3664">
+               </Location>
+               <Location
+                  uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8 - 4777f8b6bdbd7744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3696">
+               </Location>
+               <Location
+                  uuid = "EACE9DDB-454B-4007-A7B8-3B59EB42B5F8 - 4777f8b6bdbd7744"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in FlightInfoTermProject.CollectionViewController.cellLongTapped(sender: __C.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FA0A97E-6A0A-4358-AAF1-614425352F3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "manageDatabase_Collection(dict:dbaction:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FA0A97E-6A0A-4358-AAF1-614425352F3F - a947c7f017da92e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "2580">
+               </Location>
+               <Location
+                  uuid = "2FA0A97E-6A0A-4358-AAF1-614425352F3F - a947c7f017da9308"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+               <Location
+                  uuid = "2FA0A97E-6A0A-4358-AAF1-614425352F3F - a947c7f017da92a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+               <Location
+                  uuid = "2FA0A97E-6A0A-4358-AAF1-614425352F3F - a947c7f017da9329"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+               <Location
+                  uuid = "2FA0A97E-6A0A-4358-AAF1-614425352F3F - d320d3ebfa805838"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0347052-9A98-4332-8EAD-B12F847020BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "manageDatabase_Collection(dict:dbaction:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a947c7f017da8d9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "3660">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a947c7f017da8dfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "3388">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a30cc7fa4b9fb2b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - 658e662a13c628b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a947c7f017da8d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "3388">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a30cc7fa4b9fb216"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - 658e662a13c62811"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a947c7f017da9221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "3388">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - a30cc7fa4b9fad6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - 658e662a13c6376d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - d320d3ebfa805b30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "3388">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - d96bd3e1a6c5647b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E0347052-9A98-4332-8EAD-B12F847020BE - 1fe97231fe9cfe7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; Swift.Bool in FlightInfoTermProject.CollectionViewController.manageDatabase_Collection(dict: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, dbaction: Swift.Optional&lt;FlightInfoTermProject.DbAction&gt;) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0611314-9E30-4C52-BC49-23056FF0462D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightDetailVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "432"
+            endingLineNumber = "432"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7B45B49-6698-4D73-A861-90131DAF73B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "requestAmadeusAPI(flightOffersBody:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7B45B49-6698-4D73-A861-90131DAF73B4 - b0e93b738edc3a4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.requestAmadeusAPI(flightOffersBody: FlightInfoTermProject.GetFlightOffersBody) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "E7B45B49-6698-4D73-A861-90131DAF73B4 - b0e93b738edc3411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.requestAmadeusAPI(flightOffersBody: FlightInfoTermProject.GetFlightOffersBody) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFFD913A-979D-410C-8E7A-85DE2DC349AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "requestAmadeusAPI(flightOffersBody:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFFD913A-979D-410C-8E7A-85DE2DC349AD - b0e93b738edc3a4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.requestAmadeusAPI(flightOffersBody: FlightInfoTermProject.GetFlightOffersBody) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "EFFD913A-979D-410C-8E7A-85DE2DC349AD - b0e93b738edc3411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.requestAmadeusAPI(flightOffersBody: FlightInfoTermProject.GetFlightOffersBody) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D56B19C5-7507-4775-A18E-19BAFE670E95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "requestForFindCityName()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D56B19C5-7507-4775-A18E-19BAFE670E95 - 985d0707435a9e9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D56B19C5-7507-4775-A18E-19BAFE670E95 - 8bc7949641ce46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C68922AA-9359-42CF-9885-D87B6D4B9814"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "requestForFindCityName()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C68922AA-9359-42CF-9885-D87B6D4B9814 - 8d056e51a82801d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C68922AA-9359-42CF-9885-D87B6D4B9814 - 4c0e259697686500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "C68922AA-9359-42CF-9885-D87B6D4B9814 - b344ca94a2f51a98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C68922AA-9359-42CF-9885-D87B6D4B9814 - 724f81539db57e47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "C68922AA-9359-42CF-9885-D87B6D4B9814 - 724f81539db57e47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.SelectedSharedFlightViewController.requestForFindCityName() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "205"
+                  endingLineNumber = "205"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7242A28A-6459-40CC-97B9-285E4AD89666"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "storeAtCalendar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7242A28A-6459-40CC-97B9-285E4AD89666 - 939b42abe5a9f769"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.storeAtCalendar() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "277"
+                  endingLineNumber = "277"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "7242A28A-6459-40CC-97B9-285E4AD89666 - 939b42abe5a9f488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.storeAtCalendar() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "7242A28A-6459-40CC-97B9-285E4AD89666 - 939b42abe5a9f488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.storeAtCalendar() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "7242A28A-6459-40CC-97B9-285E4AD89666 - 939b42abe5a9f488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.storeAtCalendar() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "7242A28A-6459-40CC-97B9-285E4AD89666 - addae66eef7483c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.storeAtCalendar() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+               <Location
+                  uuid = "7242A28A-6459-40CC-97B9-285E4AD89666 - addae66eef7483c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SelectedSharedFlightViewController.storeAtCalendar() -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SelectedSharedFlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "278"
+                  endingLineNumber = "278"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F31675B-7268-4A40-A8AD-19BD15A4C307"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "manageDatabase_Collection(dict:dbaction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B2D4159-1E64-420E-ADD8-A16069771863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SearchDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "setUpConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F194974-FC75-418D-BC20-3654375056A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "273"
+            endingLineNumber = "273"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F194974-FC75-418D-BC20-3654375056A4 - 3b93dcb821a62a0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "1F194974-FC75-418D-BC20-3654375056A4 - af477e7089d27a7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Any)) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/programs24-1/FlightInfoTermProject/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "1F194974-FC75-418D-BC20-3654375056A4 - ae61cd70e61fefb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "1F194974-FC75-418D-BC20-3654375056A4 - 3ab56fb84e6bbfcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Any)) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "1F194974-FC75-418D-BC20-3654375056A4 - ae61cd70e61fefb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "1F194974-FC75-418D-BC20-3654375056A4 - 3ab56fb84e6bbfcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Any)) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00338CCF-C7AC-4BAA-94CC-6D3DBFBFA6E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/DbFirebase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "saveChange_shareList(key:object:action:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBD2D51D-B498-47D4-9486-51A9F59B878F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightBookingData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "toSegment()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBD2D51D-B498-47D4-9486-51A9F59B878F - d5866ee7d2b9ab80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.flightForFIrebase.toSegment() -&gt; Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightBookingData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "BBD2D51D-B498-47D4-9486-51A9F59B878F - d5866ee7d2b9ab80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.flightForFIrebase.toSegment() -&gt; Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightBookingData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "BBD2D51D-B498-47D4-9486-51A9F59B878F - d5866ee7d2b9ab80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.flightForFIrebase.toSegment() -&gt; Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightBookingData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6897270B-E026-47BD-B9B3-456EE0F9A393"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "uploadShareList(_:price:destination:oneWay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6897270B-E026-47BD-B9B3-456EE0F9A393 - 6dd99b4ca30d1b4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "6897270B-E026-47BD-B9B3-456EE0F9A393 - 6dd99b4ca30d19f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "297"
+                  endingLineNumber = "297"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "6897270B-E026-47BD-B9B3-456EE0F9A393 - 6dd99b4ca30d1933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "uploadShareList(_:price:destination:oneWay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 6dd99b4ca30d1e65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "3116">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 7a7cb9d8ea1119a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 6dd99b4ca30d1dd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "329"
+                  endingLineNumber = "329"
+                  offsetFromSymbolStart = "3116">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 7a7cb9d8ea1122e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "329"
+                  endingLineNumber = "329"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 6dd99b4ca30d121b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "339"
+                  endingLineNumber = "339"
+                  offsetFromSymbolStart = "3116">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 7a7cb9d8ea11de4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "339"
+                  endingLineNumber = "339"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 6dd99b4ca30d127a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "3116">
+               </Location>
+               <Location
+                  uuid = "48604950-3DD7-496C-9D7F-02CF63FD9E6C - 7a7cb9d8ea11d85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A97278AA-C570-4B9B-BC53-E89D4EE7102B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "uploadShareList(_:price:destination:oneWay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A97278AA-C570-4B9B-BC53-E89D4EE7102B - 6dd99b4ca30d1875"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "293"
+                  endingLineNumber = "293"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "A97278AA-C570-4B9B-BC53-E89D4EE7102B - 6dd99b4ca30d1ebf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "A97278AA-C570-4B9B-BC53-E89D4EE7102B - 6dd99b4ca30d1ef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.FlightOfferViewController.uploadShareList(_: Swift.Array&lt;FlightInfoTermProject.FlightBookingData.Itinerary&gt;, price: Swift.String, destination: Swift.String, oneWay: Swift.Bool) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30346604-A12B-4885-8037-B61AB09489FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "manageDatabase(dict:DbAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F775858A-CEE3-4E0D-B7D1-551D756703E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "manageDatabase(dict:DbAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DF7F3D3-420E-41A2-8ED4-9248F90EF998"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "editingTableRow(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "227CF7EF-0EB2-468C-983A-FC32C7A28A66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "editingTableRow(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "304D060D-D580-4115-AB4A-9D6AD4636DDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "304D060D-D580-4115-AB4A-9D6AD4636DDE - 320ed46569b35756"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "304D060D-D580-4115-AB4A-9D6AD4636DDE - 320ed46569b35756"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2767494C-C4D5-409A-B81B-91D16586C789"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/SharedListController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2767494C-C4D5-409A-B81B-91D16586C789 - 320ed46569b3487f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "2767494C-C4D5-409A-B81B-91D16586C789 - 320ed46569b3487f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlightInfoTermProject.SharedListController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/SharedListController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBBF3B6C-A27C-4EEE-9D46-8B83AC5B4301"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "434"
+            endingLineNumber = "434"
+            landmarkName = "sendToFirebase(_:_:duplicate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D9A89A3-F0ED-4B8E-8EE3-A65DF938F5BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "440"
+            endingLineNumber = "440"
+            landmarkName = "sendToFirebase(_:_:duplicate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D9A89A3-F0ED-4B8E-8EE3-A65DF938F5BE - 410106ffa1468e3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.sendToFirebase(FlightInfoTermProject.Account, Swift.String) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "439"
+                  endingLineNumber = "439"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "2D9A89A3-F0ED-4B8E-8EE3-A65DF938F5BE - 410106ffa1468e3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.sendToFirebase(FlightInfoTermProject.Account, Swift.String) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "439"
+                  endingLineNumber = "439"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "2D9A89A3-F0ED-4B8E-8EE3-A65DF938F5BE - 410106ffa1468e3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.sendToFirebase(FlightInfoTermProject.Account, Swift.String) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "439"
+                  endingLineNumber = "439"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "639FBAC2-0ABC-4A7C-8660-783EDF7838CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
+            landmarkName = "sendToFirebase(_:_:duplicate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7DB8238-2E15-4E20-A30F-898B02809BBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightInfoTermProject/FlightOfferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
+            landmarkName = "sendToFirebase(_:_:duplicate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7DB8238-2E15-4E20-A30F-898B02809BBA - 410106ffa1468dba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.sendToFirebase(FlightInfoTermProject.Account, Swift.String) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "443"
+                  endingLineNumber = "443"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "F7DB8238-2E15-4E20-A30F-898B02809BBA - 410106ffa1468dba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlightInfoTermProject.FlightOfferViewController.sendToFirebase(FlightInfoTermProject.Account, Swift.String) -&gt; ()"
+                  moduleName = "FlightInfoTermProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhs/Desktop/FreeXcode/IOS-Uikit/programs24-1/FlightInfoTermProject%202/FlightInfoTermProject/FlightOfferViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "443"
+                  endingLineNumber = "443"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
